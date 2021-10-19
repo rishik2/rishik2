@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishik2
 - 👀 I’m interested in Web Development and all the Back End Development Work. 
-- 🌱 I’m currently learning Node.js and Data Structures and Algorithms in Java Script.
+- 🌱 I’m currently learning Data Structures and Algorithms using Java Script.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rishikohliofficial@gmail.com
 
