@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rishik2
-- 👀 I’m interested in Python Programming, and all the Back End Development Work. 
-- 🌱 I’m currently learning Python Web Development Frameworks and Data Structures and Algorithms.
+- 👀 I’m interested in Web Development and all the Back End Development Work. 
+- 🌱 I’m currently learning Node.js and Data Structures and Algorithms in Java Script.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...rishikohliofficial@gmail.com
 
 <!---
 rishik2/rishik2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
