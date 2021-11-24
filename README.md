@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishik2
-- 👀 I’m interested in Web Development and all the Back End Development Work. 
+- 👀 I’m interested in Front-End Web Development.
 - 🌱 I’m currently learning Data Structures and Algorithms using Java Script.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rishikohliofficial@gmail.com
