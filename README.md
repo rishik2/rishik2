@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishik2
-- 👀 I’m interested in Front-End Web Development.
-- 🌱 I’m currently learning Data Structures and Algorithms using Java Script.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a python developer.
+- 🌱 I’m currently learning Oracle Deployment.
+- 💞️ I’m looking to work for a new company
 - 📫 How to reach me ...rishikohliofficial@gmail.com
 
 <!---
